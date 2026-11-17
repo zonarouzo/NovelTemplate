@@ -12,6 +12,7 @@
 | [timeline.md](timeline.md) | 年表（作品内の出来事を時系列で整理） |
 | [glossary.md](glossary.md) | 用語集（作中の固有名詞・造語と読み方） |
 | [style_guide.md](style_guide.md) | 文体・表記ルール（原稿の書き方の決まり） |
+| [style_samples/](style_samples/) | 文体サンプル（あなたの過去作など、文体の手本。読むだけの資料） |
 
 ## 資料を増やしたいとき
 
